@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-ldpi-v4/icon.png",
+        "source": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-ldpi-v4/background.png",
+        "source": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/res/drawable-ldpi/background.png"
+    },
+    {
+        "merged": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-ldpi-v4/logo.png",
+        "source": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/res/drawable-ldpi/logo.png"
+    }
+]

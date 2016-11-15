@@ -1,0 +1,50 @@
+{
+  "name": "nativescript-obd",
+  "version": "1.0.0",
+  "description": "OBD II reader plugin",
+  "main": "obd.js",
+  "nativescript": {
+    "platforms": {
+      "android": "2.0.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehfuzh/nativescript-obd.git"
+  },
+  "keywords": [
+    "NativeScript",
+    "nativescript-obd",
+    "OBD",
+    "iOT"
+  ],
+  "author": {
+    "name": "Mehfuz Hossain",
+    "email": "mehfuz@gmail.com"
+  },
+  "license": {
+    "type": "Apache 2.0",
+    "url": "https://github.com/mehfuzh/nativescript-obd/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/mehfuzh/nativescript-invengo/issues"
+  },
+  "homepage": "https://github.com/mehfuzh/nativescript-obd",
+  "readmeFilename": "README.md",
+  "scripts": {
+    "build": "tsc",
+    "demo.ios": "npm run preparedemo && cd demo && tns emulate ios",
+    "demo.android": "npm run preparedemo && cd demo && tns run android",
+    "debug.ios": "npm run preparedemo && cd demo && tns debug ios --emulator",
+    "debug.android": "npm run preparedemo && cd demo && tns debug android --emulator",
+    "preparedemo": "npm run build && cd demo && tns plugin remove nativescript-nativescript-invengo && tns plugin add .. && tns install",
+    "setup": "cd demo && npm install && cd .. && npm run build && cd demo && tns plugin add .. && cd ..",
+    "prepublish": "tsc",
+    "start": "npm run demo.ios"
+  },
+  "readme": "ERROR: No README data found!",
+  "_id": "nativescript-obd@1.0.0",
+  "_shasum": "0e22b1aab948f3b84dc9b16e0974f3bc67f2951b",
+  "_from": "..",
+  "_resolved": "file:.."
+}

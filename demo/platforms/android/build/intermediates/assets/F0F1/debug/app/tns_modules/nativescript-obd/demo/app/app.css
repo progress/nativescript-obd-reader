@@ -1,0 +1,69 @@
+
+GridLayout {
+  margin: 20;
+}
+
+/*ActionBar {
+  margin-top: 25px;
+}*/
+StatusBar {
+  background-color: black;
+}
+
+.location {
+    horizontal-align: center;
+}
+
+.location-label {
+    color: #3d5afe;
+    padding: 5;
+    margin-left: 2;
+}
+
+.location-label2 {
+    background-color: #3d5afe;
+    color: white;
+    padding: 5;
+    margin-right: 5;
+}
+
+.title {
+    font-size: 30;
+    margin: 5px;
+    margin-bottom: 15px;
+    horizontal-align: center;
+}
+
+.logo {
+  width : 170;
+  padding: 10;
+
+}
+
+button {
+    font-size: 17;
+    horizontal-align: center;
+    text-transform: uppercase;
+}
+
+.tag {
+  padding :5;
+  padding-top:20;
+  padding-bottom: 20;
+  text-align: center;
+  font-weight: 500;
+  background-color: #3d5afe;
+  color:white;
+  margin: 10;
+
+  margin-top: 5;
+  margin-bottom: 5;
+}
+
+.message {
+    font-size: 20;
+    color: #284848;
+    horizontal-align: center;
+    margin: 0 20;
+    text-align: center;
+}
