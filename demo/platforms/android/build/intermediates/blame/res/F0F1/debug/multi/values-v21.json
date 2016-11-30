@@ -7,8 +7,27 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
+                    "endColumn": 103,
+                    "endOffset": 154
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 103,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 159,
                     "endColumn": 43,
-                    "endOffset": 94
+                    "endOffset": 198
                 },
                 "from": {
                     "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/res/values-v21/colors.xml",
@@ -23,12 +42,69 @@
             },
             {
                 "to": {
-                    "startLine": 3,
+                    "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 99,
-                    "endLine": 6,
+                    "startOffset": 203,
+                    "endColumn": 63,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 63,
+                        "endOffset": 218
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 66,
+                    "endOffset": 329
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 223,
+                        "endColumn": 66,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 334,
+                    "endColumn": 63,
+                    "endOffset": 393
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 290,
+                        "endColumn": 63,
+                        "endOffset": 349
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 398,
+                    "endLine": 10,
                     "endColumn": 12,
-                    "endOffset": 311
+                    "endOffset": 610
                 },
                 "from": {
                     "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/res/values-v21/styles.xml",
@@ -44,96 +120,20 @@
             },
             {
                 "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 316,
-                    "endColumn": 90,
-                    "endOffset": 402
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 90,
-                        "endOffset": 141
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 407,
-                    "endColumn": 102,
-                    "endOffset": 505
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 146,
-                        "endColumn": 102,
-                        "endOffset": 244
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 510,
-                    "endColumn": 102,
-                    "endOffset": 608
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 249,
-                        "endColumn": 102,
-                        "endOffset": 347
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 613,
-                    "endColumn": 104,
-                    "endOffset": 713
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 352,
-                        "endColumn": 104,
-                        "endOffset": 452
-                    }
-                }
-            },
-            {
-                "to": {
                     "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 718,
-                    "endColumn": 106,
-                    "endOffset": 820
+                    "startOffset": 615,
+                    "endColumn": 90,
+                    "endOffset": 701
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
-                        "startOffset": 457,
-                        "endColumn": 106,
-                        "endOffset": 559
+                        "startOffset": 354,
+                        "endColumn": 90,
+                        "endOffset": 440
                     }
                 }
             },
@@ -141,18 +141,18 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 825,
-                    "endColumn": 108,
-                    "endOffset": 929
+                    "startOffset": 706,
+                    "endColumn": 102,
+                    "endOffset": 804
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
-                        "startOffset": 564,
-                        "endColumn": 108,
-                        "endOffset": 668
+                        "startOffset": 445,
+                        "endColumn": 102,
+                        "endOffset": 543
                     }
                 }
             },
@@ -160,18 +160,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 934,
-                    "endColumn": 108,
-                    "endOffset": 1038
+                    "startOffset": 809,
+                    "endColumn": 102,
+                    "endOffset": 907
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
-                        "startOffset": 673,
-                        "endColumn": 108,
-                        "endOffset": 777
+                        "startOffset": 548,
+                        "endColumn": 102,
+                        "endOffset": 646
                     }
                 }
             },
@@ -179,18 +179,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1043,
-                    "endColumn": 108,
-                    "endOffset": 1147
+                    "startOffset": 912,
+                    "endColumn": 104,
+                    "endOffset": 1012
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
-                        "startOffset": 782,
-                        "endColumn": 108,
-                        "endOffset": 886
+                        "startOffset": 651,
+                        "endColumn": 104,
+                        "endOffset": 751
                     }
                 }
             },
@@ -198,18 +198,18 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1152,
-                    "endColumn": 108,
-                    "endOffset": 1256
+                    "startOffset": 1017,
+                    "endColumn": 106,
+                    "endOffset": 1119
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 891,
-                        "endColumn": 108,
-                        "endOffset": 995
+                        "startOffset": 756,
+                        "endColumn": 106,
+                        "endOffset": 858
                     }
                 }
             },
@@ -217,18 +217,18 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1261,
+                    "startOffset": 1124,
                     "endColumn": 108,
-                    "endOffset": 1365
+                    "endOffset": 1228
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 1000,
+                        "startOffset": 863,
                         "endColumn": 108,
-                        "endOffset": 1104
+                        "endOffset": 967
                     }
                 }
             },
@@ -236,18 +236,18 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1370,
-                    "endColumn": 106,
-                    "endOffset": 1472
+                    "startOffset": 1233,
+                    "endColumn": 108,
+                    "endOffset": 1337
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
-                        "startOffset": 1109,
-                        "endColumn": 106,
-                        "endOffset": 1211
+                        "startOffset": 972,
+                        "endColumn": 108,
+                        "endOffset": 1076
                     }
                 }
             },
@@ -255,18 +255,18 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1477,
-                    "endColumn": 102,
-                    "endOffset": 1575
+                    "startOffset": 1342,
+                    "endColumn": 108,
+                    "endOffset": 1446
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
-                        "startOffset": 1216,
-                        "endColumn": 102,
-                        "endOffset": 1314
+                        "startOffset": 1081,
+                        "endColumn": 108,
+                        "endOffset": 1185
                     }
                 }
             },
@@ -274,18 +274,18 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1580,
-                    "endColumn": 118,
-                    "endOffset": 1694
+                    "startOffset": 1451,
+                    "endColumn": 108,
+                    "endOffset": 1555
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
-                        "startOffset": 1319,
-                        "endColumn": 118,
-                        "endOffset": 1433
+                        "startOffset": 1190,
+                        "endColumn": 108,
+                        "endOffset": 1294
                     }
                 }
             },
@@ -293,20 +293,37 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1699,
-                    "endLine": 21,
-                    "endColumn": 12,
-                    "endOffset": 1849
+                    "startOffset": 1560,
+                    "endColumn": 108,
+                    "endOffset": 1664
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
-                        "startOffset": 1438,
-                        "endLine": 16,
-                        "endColumn": 12,
-                        "endOffset": 1588
+                        "startOffset": 1299,
+                        "endColumn": 108,
+                        "endOffset": 1403
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1669,
+                    "endColumn": 106,
+                    "endOffset": 1771
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1408,
+                        "endColumn": 106,
+                        "endOffset": 1510
                     }
                 }
             },
@@ -314,20 +331,37 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1854,
-                    "endLine": 23,
-                    "endColumn": 12,
-                    "endOffset": 2004
+                    "startOffset": 1776,
+                    "endColumn": 102,
+                    "endOffset": 1874
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
-                        "startOffset": 1593,
-                        "endLine": 18,
-                        "endColumn": 12,
-                        "endOffset": 1743
+                        "startOffset": 1515,
+                        "endColumn": 102,
+                        "endOffset": 1613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1879,
+                    "endColumn": 118,
+                    "endOffset": 1993
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1618,
+                        "endColumn": 118,
+                        "endOffset": 1732
                     }
                 }
             },
@@ -335,37 +369,20 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 2009,
-                    "endColumn": 104,
-                    "endOffset": 2109
+                    "startOffset": 1998,
+                    "endLine": 25,
+                    "endColumn": 12,
+                    "endOffset": 2148
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
-                        "startOffset": 1748,
-                        "endColumn": 104,
-                        "endOffset": 1848
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 25,
-                    "startColumn": 4,
-                    "startOffset": 2114,
-                    "endColumn": 120,
-                    "endOffset": 2230
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 20,
-                        "startColumn": 4,
-                        "startOffset": 1853,
-                        "endColumn": 120,
-                        "endOffset": 1969
+                        "startOffset": 1737,
+                        "endLine": 20,
+                        "endColumn": 12,
+                        "endOffset": 1887
                     }
                 }
             },
@@ -373,39 +390,39 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 2235,
-                    "endColumn": 100,
-                    "endOffset": 2331
+                    "startOffset": 2153,
+                    "endLine": 27,
+                    "endColumn": 12,
+                    "endOffset": 2303
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 1974,
-                        "endColumn": 100,
-                        "endOffset": 2070
+                        "startOffset": 1892,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 2042
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 2336,
-                    "endLine": 28,
-                    "endColumn": 12,
-                    "endOffset": 2478
+                    "startOffset": 2308,
+                    "endColumn": 104,
+                    "endOffset": 2408
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 23,
                         "startColumn": 4,
-                        "startOffset": 2075,
-                        "endLine": 23,
-                        "endColumn": 12,
-                        "endOffset": 2217
+                        "startOffset": 2047,
+                        "endColumn": 104,
+                        "endOffset": 2147
                     }
                 }
             },
@@ -413,20 +430,37 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2483,
-                    "endLine": 30,
-                    "endColumn": 12,
-                    "endOffset": 2619
+                    "startOffset": 2413,
+                    "endColumn": 120,
+                    "endOffset": 2529
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
-                        "startOffset": 2222,
-                        "endLine": 25,
-                        "endColumn": 12,
-                        "endOffset": 2358
+                        "startOffset": 2152,
+                        "endColumn": 120,
+                        "endOffset": 2268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2534,
+                    "endColumn": 100,
+                    "endOffset": 2630
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2273,
+                        "endColumn": 100,
+                        "endOffset": 2369
                     }
                 }
             },
@@ -434,37 +468,20 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2624,
-                    "endColumn": 102,
-                    "endOffset": 2722
+                    "startOffset": 2635,
+                    "endLine": 32,
+                    "endColumn": 12,
+                    "endOffset": 2777
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 2363,
-                        "endColumn": 102,
-                        "endOffset": 2461
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 2727,
-                    "endColumn": 118,
-                    "endOffset": 2841
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 27,
-                        "startColumn": 4,
-                        "startOffset": 2466,
-                        "endColumn": 118,
-                        "endOffset": 2580
+                        "startOffset": 2374,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 2516
                     }
                 }
             },
@@ -472,37 +489,20 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 2846,
-                    "endColumn": 106,
-                    "endOffset": 2948
+                    "startOffset": 2782,
+                    "endLine": 34,
+                    "endColumn": 12,
+                    "endOffset": 2918
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 2585,
-                        "endColumn": 106,
-                        "endOffset": 2687
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 34,
-                    "startColumn": 4,
-                    "startOffset": 2953,
-                    "endColumn": 102,
-                    "endOffset": 3051
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 29,
-                        "startColumn": 4,
-                        "startOffset": 2692,
-                        "endColumn": 102,
-                        "endOffset": 2790
+                        "startOffset": 2521,
+                        "endLine": 29,
+                        "endColumn": 12,
+                        "endOffset": 2657
                     }
                 }
             },
@@ -510,20 +510,37 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 3056,
-                    "endLine": 36,
-                    "endColumn": 12,
-                    "endOffset": 3206
+                    "startOffset": 2923,
+                    "endColumn": 102,
+                    "endOffset": 3021
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
-                        "startOffset": 2795,
-                        "endLine": 31,
-                        "endColumn": 12,
-                        "endOffset": 2945
+                        "startOffset": 2662,
+                        "endColumn": 102,
+                        "endOffset": 2760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3026,
+                    "endColumn": 118,
+                    "endOffset": 3140
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2765,
+                        "endColumn": 118,
+                        "endOffset": 2879
                     }
                 }
             },
@@ -531,20 +548,37 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 3211,
-                    "endLine": 38,
-                    "endColumn": 12,
-                    "endOffset": 3377
+                    "startOffset": 3145,
+                    "endColumn": 106,
+                    "endOffset": 3247
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
-                        "startOffset": 2950,
-                        "endLine": 33,
-                        "endColumn": 12,
-                        "endOffset": 3116
+                        "startOffset": 2884,
+                        "endColumn": 106,
+                        "endOffset": 2986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3252,
+                    "endColumn": 102,
+                    "endOffset": 3350
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 2991,
+                        "endColumn": 102,
+                        "endOffset": 3089
                     }
                 }
             },
@@ -552,20 +586,20 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 3382,
+                    "startOffset": 3355,
                     "endLine": 40,
                     "endColumn": 12,
-                    "endOffset": 3526
+                    "endOffset": 3505
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 3121,
+                        "startOffset": 3094,
                         "endLine": 35,
                         "endColumn": 12,
-                        "endOffset": 3265
+                        "endOffset": 3244
                     }
                 }
             },
@@ -573,20 +607,20 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 3531,
+                    "startOffset": 3510,
                     "endLine": 42,
                     "endColumn": 12,
-                    "endOffset": 3691
+                    "endOffset": 3676
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
-                        "startOffset": 3270,
+                        "startOffset": 3249,
                         "endLine": 37,
                         "endColumn": 12,
-                        "endOffset": 3430
+                        "endOffset": 3415
                     }
                 }
             },
@@ -594,20 +628,20 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 3696,
+                    "startOffset": 3681,
                     "endLine": 44,
                     "endColumn": 12,
-                    "endOffset": 3848
+                    "endOffset": 3825
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
-                        "startOffset": 3435,
+                        "startOffset": 3420,
                         "endLine": 39,
                         "endColumn": 12,
-                        "endOffset": 3587
+                        "endOffset": 3564
                     }
                 }
             },
@@ -615,20 +649,20 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 3853,
+                    "startOffset": 3830,
                     "endLine": 46,
                     "endColumn": 12,
-                    "endOffset": 3999
+                    "endOffset": 3990
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
-                        "startOffset": 3592,
+                        "startOffset": 3569,
                         "endLine": 41,
                         "endColumn": 12,
-                        "endOffset": 3738
+                        "endOffset": 3729
                     }
                 }
             },
@@ -636,60 +670,60 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 4004,
-                    "endColumn": 118,
-                    "endOffset": 4118
+                    "startOffset": 3995,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 4147
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
-                        "startOffset": 3743,
+                        "startOffset": 3734,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 3886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4152,
+                    "endLine": 50,
+                    "endColumn": 12,
+                    "endOffset": 4298
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 3891,
+                        "endLine": 45,
+                        "endColumn": 12,
+                        "endOffset": 4037
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4303,
+                    "endColumn": 118,
+                    "endOffset": 4417
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 4042,
                         "endColumn": 118,
-                        "endOffset": 3857
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 48,
-                    "startColumn": 4,
-                    "startOffset": 4123,
-                    "endLine": 49,
-                    "endColumn": 12,
-                    "endOffset": 4267
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 43,
-                        "startColumn": 4,
-                        "startOffset": 3862,
-                        "endLine": 44,
-                        "endColumn": 12,
-                        "endOffset": 4006
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 50,
-                    "startColumn": 4,
-                    "startOffset": 4272,
-                    "endLine": 51,
-                    "endColumn": 12,
-                    "endOffset": 4416
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 45,
-                        "startColumn": 4,
-                        "startOffset": 4011,
-                        "endLine": 46,
-                        "endColumn": 12,
-                        "endOffset": 4155
+                        "endOffset": 4156
                     }
                 }
             },
@@ -697,98 +731,41 @@
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 4421,
-                    "endColumn": 111,
-                    "endOffset": 4528
+                    "startOffset": 4422,
+                    "endLine": 56,
+                    "endColumn": 12,
+                    "endOffset": 4789
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
-                        "startOffset": 4160,
-                        "endColumn": 111,
-                        "endOffset": 4267
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 53,
-                    "startColumn": 4,
-                    "startOffset": 4533,
-                    "endColumn": 146,
-                    "endOffset": 4675
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 48,
-                        "startColumn": 4,
-                        "startOffset": 4272,
-                        "endColumn": 146,
-                        "endOffset": 4414
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 54,
-                    "startColumn": 4,
-                    "startOffset": 4680,
-                    "endLine": 55,
-                    "endColumn": 12,
-                    "endOffset": 4828
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 49,
-                        "startColumn": 4,
-                        "startOffset": 4419,
-                        "endLine": 50,
+                        "startOffset": 4161,
+                        "endLine": 51,
                         "endColumn": 12,
-                        "endOffset": 4567
+                        "endOffset": 4528
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 56,
+                    "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 4833,
-                    "endLine": 57,
+                    "startOffset": 4794,
+                    "endLine": 58,
                     "endColumn": 12,
-                    "endOffset": 4975
+                    "endOffset": 4938
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 51,
+                        "startLine": 52,
                         "startColumn": 4,
-                        "startOffset": 4572,
-                        "endLine": 52,
+                        "startOffset": 4533,
+                        "endLine": 53,
                         "endColumn": 12,
-                        "endOffset": 4714
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 58,
-                    "startColumn": 4,
-                    "startOffset": 4980,
-                    "endColumn": 74,
-                    "endOffset": 5050
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 53,
-                        "startColumn": 4,
-                        "startOffset": 4719,
-                        "endColumn": 74,
-                        "endOffset": 4789
+                        "endOffset": 4677
                     }
                 }
             },
@@ -796,37 +773,20 @@
                 "to": {
                     "startLine": 59,
                     "startColumn": 4,
-                    "startOffset": 5055,
-                    "endColumn": 88,
-                    "endOffset": 5139
+                    "startOffset": 4943,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 5087
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
-                        "startOffset": 4794,
-                        "endColumn": 88,
-                        "endOffset": 4878
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 60,
-                    "startColumn": 4,
-                    "startOffset": 5144,
-                    "endColumn": 86,
-                    "endOffset": 5226
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 55,
-                        "startColumn": 4,
-                        "startOffset": 4883,
-                        "endColumn": 86,
-                        "endOffset": 4965
+                        "startOffset": 4682,
+                        "endLine": 55,
+                        "endColumn": 12,
+                        "endOffset": 4826
                     }
                 }
             },
@@ -834,18 +794,18 @@
                 "to": {
                     "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 5231,
-                    "endColumn": 100,
-                    "endOffset": 5327
+                    "startOffset": 5092,
+                    "endColumn": 111,
+                    "endOffset": 5199
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
-                        "startOffset": 4970,
-                        "endColumn": 100,
-                        "endOffset": 5066
+                        "startOffset": 4831,
+                        "endColumn": 111,
+                        "endOffset": 4938
                     }
                 }
             },
@@ -853,228 +813,281 @@
                 "to": {
                     "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 5332,
-                    "endLine": 105,
-                    "endColumn": 12,
-                    "endOffset": 8395
+                    "startOffset": 5204,
+                    "endColumn": 146,
+                    "endOffset": 5346
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 57,
                         "startColumn": 4,
-                        "startOffset": 5071,
-                        "endLine": 100,
-                        "endColumn": 12,
-                        "endOffset": 8134
+                        "startOffset": 4943,
+                        "endColumn": 146,
+                        "endOffset": 5085
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 106,
+                    "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 8400,
-                    "endLine": 108,
+                    "startOffset": 5351,
+                    "endLine": 64,
                     "endColumn": 12,
-                    "endOffset": 8581
+                    "endOffset": 5499
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 101,
+                        "startLine": 58,
                         "startColumn": 4,
-                        "startOffset": 8139,
-                        "endLine": 103,
+                        "startOffset": 5090,
+                        "endLine": 59,
                         "endColumn": 12,
-                        "endOffset": 8320
+                        "endOffset": 5238
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 109,
+                    "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 8586,
-                    "endLine": 152,
+                    "startOffset": 5504,
+                    "endLine": 66,
                     "endColumn": 12,
-                    "endOffset": 11661
+                    "endOffset": 5646
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 104,
+                        "startLine": 60,
                         "startColumn": 4,
-                        "startOffset": 8325,
-                        "endLine": 147,
+                        "startOffset": 5243,
+                        "endLine": 61,
                         "endColumn": 12,
-                        "endOffset": 11400
+                        "endOffset": 5385
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 153,
+                    "startLine": 67,
                     "startColumn": 4,
-                    "startOffset": 11666,
-                    "endLine": 155,
-                    "endColumn": 12,
-                    "endOffset": 11859
+                    "startOffset": 5651,
+                    "endColumn": 74,
+                    "endOffset": 5721
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 148,
+                        "startLine": 62,
                         "startColumn": 4,
-                        "startOffset": 11405,
-                        "endLine": 150,
-                        "endColumn": 12,
-                        "endOffset": 11598
+                        "startOffset": 5390,
+                        "endColumn": 74,
+                        "endOffset": 5460
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 156,
+                    "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 11864,
-                    "endLine": 157,
-                    "endColumn": 12,
-                    "endOffset": 11982
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 151,
-                        "startColumn": 4,
-                        "startOffset": 11603,
-                        "endLine": 152,
-                        "endColumn": 12,
-                        "endOffset": 11721
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 158,
-                    "startColumn": 4,
-                    "startOffset": 11987,
-                    "endLine": 159,
-                    "endColumn": 12,
-                    "endOffset": 12105
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 153,
-                        "startColumn": 4,
-                        "startOffset": 11726,
-                        "endLine": 154,
-                        "endColumn": 12,
-                        "endOffset": 11844
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 160,
-                    "startColumn": 4,
-                    "startOffset": 12110,
-                    "endLine": 161,
-                    "endColumn": 12,
-                    "endOffset": 12218
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 155,
-                        "startColumn": 4,
-                        "startOffset": 11849,
-                        "endLine": 156,
-                        "endColumn": 12,
-                        "endOffset": 11957
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 162,
-                    "startColumn": 4,
-                    "startOffset": 12223,
-                    "endLine": 164,
-                    "endColumn": 12,
-                    "endOffset": 12401
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 157,
-                        "startColumn": 4,
-                        "startOffset": 11962,
-                        "endLine": 159,
-                        "endColumn": 12,
-                        "endOffset": 12140
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 165,
-                    "startColumn": 4,
-                    "startOffset": 12406,
-                    "endLine": 166,
-                    "endColumn": 12,
-                    "endOffset": 12532
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 160,
-                        "startColumn": 4,
-                        "startOffset": 12145,
-                        "endLine": 161,
-                        "endColumn": 12,
-                        "endOffset": 12271
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 167,
-                    "startColumn": 4,
-                    "startOffset": 12537,
-                    "endLine": 169,
-                    "endColumn": 12,
-                    "endOffset": 12733
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 162,
-                        "startColumn": 4,
-                        "startOffset": 12276,
-                        "endLine": 164,
-                        "endColumn": 12,
-                        "endOffset": 12472
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 170,
-                    "startColumn": 4,
-                    "startOffset": 12738,
+                    "startOffset": 5726,
                     "endColumn": 88,
-                    "endOffset": 12822
+                    "endOffset": 5810
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 165,
+                        "startLine": 63,
                         "startColumn": 4,
-                        "startOffset": 12477,
+                        "startOffset": 5465,
                         "endColumn": 88,
-                        "endOffset": 12561
+                        "endOffset": 5549
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 5815,
+                    "endColumn": 86,
+                    "endOffset": 5897
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 5554,
+                        "endColumn": 86,
+                        "endOffset": 5636
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 5902,
+                    "endColumn": 100,
+                    "endOffset": 5998
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 5641,
+                        "endColumn": 100,
+                        "endOffset": 5737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 6003,
+                    "endColumn": 102,
+                    "endOffset": 6101
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5742,
+                        "endColumn": 102,
+                        "endOffset": 5840
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 6106,
+                    "endLine": 115,
+                    "endColumn": 12,
+                    "endOffset": 9169
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 5845,
+                        "endLine": 110,
+                        "endColumn": 12,
+                        "endOffset": 8908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 9174,
+                    "endLine": 118,
+                    "endColumn": 12,
+                    "endOffset": 9355
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 8913,
+                        "endLine": 113,
+                        "endColumn": 12,
+                        "endOffset": 9094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 9360,
+                    "endLine": 162,
+                    "endColumn": 12,
+                    "endOffset": 12435
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 9099,
+                        "endLine": 157,
+                        "endColumn": 12,
+                        "endOffset": 12174
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 163,
+                    "startColumn": 4,
+                    "startOffset": 12440,
+                    "endLine": 165,
+                    "endColumn": 12,
+                    "endOffset": 12633
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 158,
+                        "startColumn": 4,
+                        "startOffset": 12179,
+                        "endLine": 160,
+                        "endColumn": 12,
+                        "endOffset": 12372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 166,
+                    "startColumn": 4,
+                    "startOffset": 12638,
+                    "endLine": 168,
+                    "endColumn": 12,
+                    "endOffset": 12833
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 161,
+                        "startColumn": 4,
+                        "startOffset": 12377,
+                        "endLine": 163,
+                        "endColumn": 12,
+                        "endOffset": 12572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 169,
+                    "startColumn": 4,
+                    "startOffset": 12838,
+                    "endLine": 170,
+                    "endColumn": 12,
+                    "endOffset": 12956
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 164,
+                        "startColumn": 4,
+                        "startOffset": 12577,
+                        "endLine": 165,
+                        "endColumn": 12,
+                        "endOffset": 12695
                     }
                 }
             },
@@ -1082,37 +1095,20 @@
                 "to": {
                     "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 12827,
-                    "endColumn": 110,
-                    "endOffset": 12933
+                    "startOffset": 12961,
+                    "endLine": 172,
+                    "endColumn": 12,
+                    "endOffset": 13079
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
-                        "startOffset": 12566,
-                        "endColumn": 110,
-                        "endOffset": 12672
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 172,
-                    "startColumn": 4,
-                    "startOffset": 12938,
-                    "endColumn": 126,
-                    "endOffset": 13060
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 167,
-                        "startColumn": 4,
-                        "startOffset": 12677,
-                        "endColumn": 126,
-                        "endOffset": 12799
+                        "startOffset": 12700,
+                        "endLine": 167,
+                        "endColumn": 12,
+                        "endOffset": 12818
                     }
                 }
             },
@@ -1120,37 +1116,20 @@
                 "to": {
                     "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 13065,
-                    "endColumn": 100,
-                    "endOffset": 13161
+                    "startOffset": 13084,
+                    "endLine": 174,
+                    "endColumn": 12,
+                    "endOffset": 13192
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 168,
                         "startColumn": 4,
-                        "startOffset": 12804,
-                        "endColumn": 100,
-                        "endOffset": 12900
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 174,
-                    "startColumn": 4,
-                    "startOffset": 13166,
-                    "endColumn": 94,
-                    "endOffset": 13256
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 169,
-                        "startColumn": 4,
-                        "startOffset": 12905,
-                        "endColumn": 94,
-                        "endOffset": 12995
+                        "startOffset": 12823,
+                        "endLine": 169,
+                        "endColumn": 12,
+                        "endOffset": 12931
                     }
                 }
             },
@@ -1158,56 +1137,20 @@
                 "to": {
                     "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 13261,
-                    "endColumn": 122,
-                    "endOffset": 13379
+                    "startOffset": 13197,
+                    "endLine": 177,
+                    "endColumn": 12,
+                    "endOffset": 13375
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 170,
                         "startColumn": 4,
-                        "startOffset": 13000,
-                        "endColumn": 122,
-                        "endOffset": 13118
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 176,
-                    "startColumn": 4,
-                    "startOffset": 13384,
-                    "endColumn": 128,
-                    "endOffset": 13508
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 171,
-                        "startColumn": 4,
-                        "startOffset": 13123,
-                        "endColumn": 128,
-                        "endOffset": 13247
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 177,
-                    "startColumn": 4,
-                    "startOffset": 13513,
-                    "endColumn": 116,
-                    "endOffset": 13625
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 172,
-                        "startColumn": 4,
-                        "startOffset": 13252,
-                        "endColumn": 116,
-                        "endOffset": 13364
+                        "startOffset": 12936,
+                        "endLine": 172,
+                        "endColumn": 12,
+                        "endOffset": 13114
                     }
                 }
             },
@@ -1215,60 +1158,60 @@
                 "to": {
                     "startLine": 178,
                     "startColumn": 4,
-                    "startOffset": 13630,
-                    "endLine": 180,
+                    "startOffset": 13380,
+                    "endLine": 179,
                     "endColumn": 12,
-                    "endOffset": 13802
+                    "endOffset": 13506
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 173,
                         "startColumn": 4,
-                        "startOffset": 13369,
-                        "endLine": 175,
+                        "startOffset": 13119,
+                        "endLine": 174,
                         "endColumn": 12,
-                        "endOffset": 13541
+                        "endOffset": 13245
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 181,
+                    "startLine": 180,
                     "startColumn": 4,
-                    "startOffset": 13807,
-                    "endColumn": 98,
-                    "endOffset": 13901
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 176,
-                        "startColumn": 4,
-                        "startOffset": 13546,
-                        "endColumn": 98,
-                        "endOffset": 13640
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 182,
-                    "startColumn": 4,
-                    "startOffset": 13906,
-                    "endLine": 183,
+                    "startOffset": 13511,
+                    "endLine": 182,
                     "endColumn": 12,
-                    "endOffset": 14036
+                    "endOffset": 13707
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 177,
+                        "startLine": 175,
                         "startColumn": 4,
-                        "startOffset": 13645,
-                        "endLine": 178,
+                        "startOffset": 13250,
+                        "endLine": 177,
                         "endColumn": 12,
-                        "endOffset": 13775
+                        "endOffset": 13446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 183,
+                    "startColumn": 4,
+                    "startOffset": 13712,
+                    "endColumn": 88,
+                    "endOffset": 13796
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 178,
+                        "startColumn": 4,
+                        "startOffset": 13451,
+                        "endColumn": 88,
+                        "endOffset": 13535
                     }
                 }
             },
@@ -1276,41 +1219,39 @@
                 "to": {
                     "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 14041,
-                    "endLine": 185,
-                    "endColumn": 12,
-                    "endOffset": 14179
+                    "startOffset": 13801,
+                    "endColumn": 110,
+                    "endOffset": 13907
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
-                        "startOffset": 13780,
-                        "endLine": 180,
-                        "endColumn": 12,
-                        "endOffset": 13918
+                        "startOffset": 13540,
+                        "endColumn": 110,
+                        "endOffset": 13646
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 186,
+                    "startLine": 185,
                     "startColumn": 4,
-                    "startOffset": 14184,
+                    "startOffset": 13912,
                     "endLine": 187,
                     "endColumn": 12,
-                    "endOffset": 14314
+                    "endOffset": 14140
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 181,
+                        "startLine": 180,
                         "startColumn": 4,
-                        "startOffset": 13923,
+                        "startOffset": 13651,
                         "endLine": 182,
                         "endColumn": 12,
-                        "endOffset": 14053
+                        "endOffset": 13879
                     }
                 }
             },
@@ -1318,20 +1259,37 @@
                 "to": {
                     "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 14319,
-                    "endLine": 189,
-                    "endColumn": 12,
-                    "endOffset": 14433
+                    "startOffset": 14145,
+                    "endColumn": 100,
+                    "endOffset": 14241
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
-                        "startOffset": 14058,
-                        "endLine": 184,
-                        "endColumn": 12,
-                        "endOffset": 14172
+                        "startOffset": 13884,
+                        "endColumn": 100,
+                        "endOffset": 13980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 189,
+                    "startColumn": 4,
+                    "startOffset": 14246,
+                    "endColumn": 94,
+                    "endOffset": 14336
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 184,
+                        "startColumn": 4,
+                        "startOffset": 13985,
+                        "endColumn": 94,
+                        "endOffset": 14075
                     }
                 }
             },
@@ -1339,41 +1297,77 @@
                 "to": {
                     "startLine": 190,
                     "startColumn": 4,
-                    "startOffset": 14438,
-                    "endLine": 193,
-                    "endColumn": 12,
-                    "endOffset": 14634
+                    "startOffset": 14341,
+                    "endColumn": 122,
+                    "endOffset": 14459
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 185,
                         "startColumn": 4,
-                        "startOffset": 14177,
-                        "endLine": 188,
-                        "endColumn": 12,
-                        "endOffset": 14373
+                        "startOffset": 14080,
+                        "endColumn": 122,
+                        "endOffset": 14198
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 194,
+                    "startLine": 191,
                     "startColumn": 4,
-                    "startOffset": 14639,
-                    "endLine": 195,
-                    "endColumn": 12,
-                    "endOffset": 14753
+                    "startOffset": 14464,
+                    "endColumn": 128,
+                    "endOffset": 14588
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 189,
+                        "startLine": 186,
                         "startColumn": 4,
-                        "startOffset": 14378,
+                        "startOffset": 14203,
+                        "endColumn": 128,
+                        "endOffset": 14327
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 192,
+                    "startColumn": 4,
+                    "startOffset": 14593,
+                    "endColumn": 116,
+                    "endOffset": 14705
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 187,
+                        "startColumn": 4,
+                        "startOffset": 14332,
+                        "endColumn": 116,
+                        "endOffset": 14444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 193,
+                    "startColumn": 4,
+                    "startOffset": 14710,
+                    "endLine": 195,
+                    "endColumn": 12,
+                    "endOffset": 14882
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 188,
+                        "startColumn": 4,
+                        "startOffset": 14449,
                         "endLine": 190,
                         "endColumn": 12,
-                        "endOffset": 14492
+                        "endOffset": 14621
                     }
                 }
             },
@@ -1381,18 +1375,18 @@
                 "to": {
                     "startLine": 196,
                     "startColumn": 4,
-                    "startOffset": 14758,
-                    "endColumn": 92,
-                    "endOffset": 14846
+                    "startOffset": 14887,
+                    "endColumn": 98,
+                    "endOffset": 14981
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 191,
                         "startColumn": 4,
-                        "startOffset": 14497,
-                        "endColumn": 92,
-                        "endOffset": 14585
+                        "startOffset": 14626,
+                        "endColumn": 98,
+                        "endOffset": 14720
                     }
                 }
             },
@@ -1400,37 +1394,20 @@
                 "to": {
                     "startLine": 197,
                     "startColumn": 4,
-                    "startOffset": 14851,
-                    "endColumn": 110,
-                    "endOffset": 14957
+                    "startOffset": 14986,
+                    "endLine": 198,
+                    "endColumn": 12,
+                    "endOffset": 15116
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
-                        "startOffset": 14590,
-                        "endColumn": 110,
-                        "endOffset": 14696
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 198,
-                    "startColumn": 4,
-                    "startOffset": 14962,
-                    "endColumn": 55,
-                    "endOffset": 15013
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 193,
-                        "startColumn": 4,
-                        "startOffset": 14701,
-                        "endColumn": 55,
-                        "endOffset": 14752
+                        "startOffset": 14725,
+                        "endLine": 193,
+                        "endColumn": 12,
+                        "endOffset": 14855
                     }
                 }
             },
@@ -1438,20 +1415,20 @@
                 "to": {
                     "startLine": 199,
                     "startColumn": 4,
-                    "startOffset": 15018,
+                    "startOffset": 15121,
                     "endLine": 200,
                     "endColumn": 12,
-                    "endOffset": 15120
+                    "endOffset": 15259
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
-                        "startOffset": 14757,
+                        "startOffset": 14860,
                         "endLine": 195,
                         "endColumn": 12,
-                        "endOffset": 14859
+                        "endOffset": 14998
                     }
                 }
             },
@@ -1459,20 +1436,41 @@
                 "to": {
                     "startLine": 201,
                     "startColumn": 4,
-                    "startOffset": 15125,
-                    "endLine": 204,
+                    "startOffset": 15264,
+                    "endLine": 202,
                     "endColumn": 12,
-                    "endOffset": 15315
+                    "endOffset": 15394
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
-                        "startOffset": 14864,
+                        "startOffset": 15003,
+                        "endLine": 197,
+                        "endColumn": 12,
+                        "endOffset": 15133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 15399,
+                    "endLine": 204,
+                    "endColumn": 12,
+                    "endOffset": 15513
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 198,
+                        "startColumn": 4,
+                        "startOffset": 15138,
                         "endLine": 199,
                         "endColumn": 12,
-                        "endOffset": 15054
+                        "endOffset": 15252
                     }
                 }
             },
@@ -1480,41 +1478,20 @@
                 "to": {
                     "startLine": 205,
                     "startColumn": 4,
-                    "startOffset": 15320,
-                    "endLine": 206,
+                    "startOffset": 15518,
+                    "endLine": 208,
                     "endColumn": 12,
-                    "endOffset": 15426
+                    "endOffset": 15714
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
-                        "startOffset": 15059,
-                        "endLine": 201,
-                        "endColumn": 12,
-                        "endOffset": 15165
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 207,
-                    "startColumn": 4,
-                    "startOffset": 15431,
-                    "endLine": 208,
-                    "endColumn": 12,
-                    "endOffset": 15559
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 202,
-                        "startColumn": 4,
-                        "startOffset": 15170,
+                        "startOffset": 15257,
                         "endLine": 203,
                         "endColumn": 12,
-                        "endOffset": 15298
+                        "endOffset": 15453
                     }
                 }
             },
@@ -1522,37 +1499,20 @@
                 "to": {
                     "startLine": 209,
                     "startColumn": 4,
-                    "startOffset": 15564,
-                    "endColumn": 94,
-                    "endOffset": 15654
+                    "startOffset": 15719,
+                    "endLine": 210,
+                    "endColumn": 12,
+                    "endOffset": 15833
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
-                        "startOffset": 15303,
-                        "endColumn": 94,
-                        "endOffset": 15393
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 210,
-                    "startColumn": 4,
-                    "startOffset": 15659,
-                    "endColumn": 90,
-                    "endOffset": 15745
-                },
-                "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
-                    "position": {
-                        "startLine": 205,
-                        "startColumn": 4,
-                        "startOffset": 15398,
-                        "endColumn": 90,
-                        "endOffset": 15484
+                        "startOffset": 15458,
+                        "endLine": 205,
+                        "endColumn": 12,
+                        "endOffset": 15572
                     }
                 }
             },
@@ -1560,18 +1520,18 @@
                 "to": {
                     "startLine": 211,
                     "startColumn": 4,
-                    "startOffset": 15750,
-                    "endColumn": 90,
-                    "endOffset": 15836
+                    "startOffset": 15838,
+                    "endColumn": 92,
+                    "endOffset": 15926
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 206,
                         "startColumn": 4,
-                        "startOffset": 15489,
-                        "endColumn": 90,
-                        "endOffset": 15575
+                        "startOffset": 15577,
+                        "endColumn": 92,
+                        "endOffset": 15665
                     }
                 }
             },
@@ -1579,18 +1539,18 @@
                 "to": {
                     "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 15841,
-                    "endColumn": 116,
-                    "endOffset": 15953
+                    "startOffset": 15931,
+                    "endColumn": 110,
+                    "endOffset": 16037
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
-                        "startOffset": 15580,
-                        "endColumn": 116,
-                        "endOffset": 15692
+                        "startOffset": 15670,
+                        "endColumn": 110,
+                        "endOffset": 15776
                     }
                 }
             },
@@ -1598,31 +1558,210 @@
                 "to": {
                     "startLine": 213,
                     "startColumn": 4,
-                    "startOffset": 15958,
-                    "endLine": 214,
-                    "endColumn": 12,
-                    "endOffset": 16092
+                    "startOffset": 16042,
+                    "endColumn": 55,
+                    "endOffset": 16093
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
                         "startLine": 208,
                         "startColumn": 4,
-                        "startOffset": 15697,
-                        "endLine": 209,
-                        "endColumn": 12,
-                        "endOffset": 15831
+                        "startOffset": 15781,
+                        "endColumn": 55,
+                        "endOffset": 15832
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 215,
+                    "startLine": 214,
                     "startColumn": 4,
-                    "startOffset": 16097,
-                    "endLine": 217,
+                    "startOffset": 16098,
+                    "endLine": 215,
                     "endColumn": 12,
-                    "endOffset": 16237
+                    "endOffset": 16200
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 209,
+                        "startColumn": 4,
+                        "startOffset": 15837,
+                        "endLine": 210,
+                        "endColumn": 12,
+                        "endOffset": 15939
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 16205,
+                    "endLine": 219,
+                    "endColumn": 12,
+                    "endOffset": 16395
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 211,
+                        "startColumn": 4,
+                        "startOffset": 15944,
+                        "endLine": 214,
+                        "endColumn": 12,
+                        "endOffset": 16134
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 16400,
+                    "endLine": 221,
+                    "endColumn": 12,
+                    "endOffset": 16506
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 215,
+                        "startColumn": 4,
+                        "startOffset": 16139,
+                        "endLine": 216,
+                        "endColumn": 12,
+                        "endOffset": 16245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 16511,
+                    "endLine": 223,
+                    "endColumn": 12,
+                    "endOffset": 16639
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 217,
+                        "startColumn": 4,
+                        "startOffset": 16250,
+                        "endLine": 218,
+                        "endColumn": 12,
+                        "endOffset": 16378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 16644,
+                    "endColumn": 94,
+                    "endOffset": 16734
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 219,
+                        "startColumn": 4,
+                        "startOffset": 16383,
+                        "endColumn": 94,
+                        "endOffset": 16473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 16739,
+                    "endColumn": 90,
+                    "endOffset": 16825
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 220,
+                        "startColumn": 4,
+                        "startOffset": 16478,
+                        "endColumn": 90,
+                        "endOffset": 16564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 16830,
+                    "endColumn": 90,
+                    "endOffset": 16916
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 221,
+                        "startColumn": 4,
+                        "startOffset": 16569,
+                        "endColumn": 90,
+                        "endOffset": 16655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 16921,
+                    "endColumn": 116,
+                    "endOffset": 17033
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 222,
+                        "startColumn": 4,
+                        "startOffset": 16660,
+                        "endColumn": 116,
+                        "endOffset": 16772
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 17038,
+                    "endLine": 229,
+                    "endColumn": 12,
+                    "endOffset": 17172
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 223,
+                        "startColumn": 4,
+                        "startOffset": 16777,
+                        "endLine": 224,
+                        "endColumn": 12,
+                        "endOffset": 16911
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 17177,
+                    "endLine": 232,
+                    "endColumn": 12,
+                    "endOffset": 17317
                 },
                 "from": {
                     "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/res/values-v21/styles.xml",
@@ -1638,113 +1777,151 @@
             },
             {
                 "to": {
-                    "startLine": 218,
+                    "startLine": 233,
                     "startColumn": 4,
-                    "startOffset": 16242,
-                    "endLine": 227,
-                    "endColumn": 12,
-                    "endOffset": 16750
+                    "startOffset": 17322,
+                    "endColumn": 70,
+                    "endOffset": 17388
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 210,
+                        "startLine": 225,
                         "startColumn": 4,
-                        "startOffset": 15836,
-                        "endLine": 219,
-                        "endColumn": 12,
-                        "endOffset": 16344
+                        "startOffset": 16916,
+                        "endColumn": 70,
+                        "endOffset": 16982
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 228,
+                    "startLine": 234,
                     "startColumn": 4,
-                    "startOffset": 16755,
-                    "endLine": 237,
-                    "endColumn": 12,
-                    "endOffset": 17275
+                    "startOffset": 17393,
+                    "endColumn": 82,
+                    "endOffset": 17471
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 220,
+                        "startLine": 226,
                         "startColumn": 4,
-                        "startOffset": 16349,
-                        "endLine": 229,
-                        "endColumn": 12,
-                        "endOffset": 16869
+                        "startOffset": 16987,
+                        "endColumn": 82,
+                        "endOffset": 17065
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 238,
+                    "startLine": 235,
                     "startColumn": 4,
-                    "startOffset": 17280,
-                    "endLine": 247,
+                    "startOffset": 17476,
+                    "endLine": 244,
                     "endColumn": 12,
-                    "endOffset": 17955
+                    "endOffset": 18151
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 230,
+                        "startLine": 227,
                         "startColumn": 4,
-                        "startOffset": 16874,
-                        "endLine": 239,
+                        "startOffset": 17070,
+                        "endLine": 236,
                         "endColumn": 12,
-                        "endOffset": 17549
+                        "endOffset": 17745
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 248,
+                    "startLine": 245,
                     "startColumn": 4,
-                    "startOffset": 17960,
+                    "startOffset": 18156,
                     "endColumn": 56,
-                    "endOffset": 18012
+                    "endOffset": 18208
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 240,
+                        "startLine": 237,
                         "startColumn": 4,
-                        "startOffset": 17554,
+                        "startOffset": 17750,
                         "endColumn": 56,
-                        "endOffset": 17606
+                        "endOffset": 17802
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 249,
+                    "startLine": 246,
                     "startColumn": 4,
-                    "startOffset": 18017,
+                    "startOffset": 18213,
                     "endColumn": 57,
-                    "endOffset": 18070
+                    "endOffset": 18266
                 },
                 "from": {
-                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-v21/values-v21.xml",
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
                     "position": {
-                        "startLine": 241,
+                        "startLine": 238,
                         "startColumn": 4,
-                        "startOffset": 17611,
+                        "startOffset": 17807,
                         "endColumn": 57,
-                        "endOffset": 17664
+                        "endOffset": 17860
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 250,
+                    "startLine": 247,
                     "startColumn": 4,
-                    "startOffset": 18075,
-                    "endLine": 252,
+                    "startOffset": 18271,
+                    "endLine": 258,
                     "endColumn": 12,
-                    "endOffset": 18229
+                    "endOffset": 18960
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 239,
+                        "startColumn": 4,
+                        "startOffset": 17865,
+                        "endLine": 250,
+                        "endColumn": 12,
+                        "endOffset": 18554
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 18965,
+                    "endLine": 270,
+                    "endColumn": 12,
+                    "endOffset": 19666
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 251,
+                        "startColumn": 4,
+                        "startOffset": 18559,
+                        "endLine": 262,
+                        "endColumn": 12,
+                        "endOffset": 19260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 19671,
+                    "endLine": 273,
+                    "endColumn": 12,
+                    "endOffset": 19825
                 },
                 "from": {
                     "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/res/values-v21/styles.xml",
@@ -1760,12 +1937,12 @@
             },
             {
                 "to": {
-                    "startLine": 253,
+                    "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 18234,
-                    "endLine": 255,
+                    "startOffset": 19830,
+                    "endLine": 276,
                     "endColumn": 12,
-                    "endOffset": 18388
+                    "endOffset": 19984
                 },
                 "from": {
                     "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/res/values-v21/styles.xml",
@@ -1776,6 +1953,229 @@
                         "endLine": 17,
                         "endColumn": 12,
                         "endOffset": 739
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 19989,
+                    "endColumn": 118,
+                    "endOffset": 20103
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 263,
+                        "startColumn": 4,
+                        "startOffset": 19265,
+                        "endColumn": 118,
+                        "endOffset": 19379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 20108,
+                    "endColumn": 128,
+                    "endOffset": 20232
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 264,
+                        "startColumn": 4,
+                        "startOffset": 19384,
+                        "endColumn": 128,
+                        "endOffset": 19508
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 20237,
+                    "endLine": 281,
+                    "endColumn": 12,
+                    "endOffset": 20403
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 265,
+                        "startColumn": 4,
+                        "startOffset": 19513,
+                        "endLine": 267,
+                        "endColumn": 12,
+                        "endOffset": 19679
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 20408,
+                    "endLine": 284,
+                    "endColumn": 12,
+                    "endOffset": 20569
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 268,
+                        "startColumn": 4,
+                        "startOffset": 19684,
+                        "endLine": 270,
+                        "endColumn": 12,
+                        "endOffset": 19845
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 20574,
+                    "endColumn": 128,
+                    "endOffset": 20698
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 271,
+                        "startColumn": 4,
+                        "startOffset": 19850,
+                        "endColumn": 128,
+                        "endOffset": 19974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 20703,
+                    "endLine": 288,
+                    "endColumn": 12,
+                    "endOffset": 20869
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 272,
+                        "startColumn": 4,
+                        "startOffset": 19979,
+                        "endLine": 274,
+                        "endColumn": 12,
+                        "endOffset": 20145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 20874,
+                    "endColumn": 130,
+                    "endOffset": 21000
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 275,
+                        "startColumn": 4,
+                        "startOffset": 20150,
+                        "endColumn": 130,
+                        "endOffset": 20276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 21005,
+                    "endLine": 292,
+                    "endColumn": 12,
+                    "endOffset": 21170
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 276,
+                        "startColumn": 4,
+                        "startOffset": 20281,
+                        "endLine": 278,
+                        "endColumn": 12,
+                        "endOffset": 20446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 21175,
+                    "endLine": 295,
+                    "endColumn": 12,
+                    "endOffset": 21345
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 279,
+                        "startColumn": 4,
+                        "startOffset": 20451,
+                        "endLine": 281,
+                        "endColumn": 12,
+                        "endOffset": 20621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 21350,
+                    "endLine": 300,
+                    "endColumn": 12,
+                    "endOffset": 21686
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 282,
+                        "startColumn": 4,
+                        "startOffset": 20626,
+                        "endLine": 286,
+                        "endColumn": 12,
+                        "endOffset": 20962
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 21691,
+                    "endLine": 303,
+                    "endColumn": 12,
+                    "endOffset": 21880
+                },
+                "from": {
+                    "file": "/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.0.1/res/values-v21/values-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endLine": 4,
+                        "endColumn": 12,
+                        "endOffset": 244
                     }
                 }
             }

@@ -20,7 +20,7 @@
   ],
   "author": {
     "name": "Mehfuz Hossain",
-    "email": "mehfuz@gmail.com"
+    "email": "mehfuz.hossain@progress.com"
   },
   "license": {
     "type": "Apache 2.0",
@@ -37,14 +37,15 @@
     "demo.android": "npm run preparedemo && cd demo && tns run android",
     "debug.ios": "npm run preparedemo && cd demo && tns debug ios --emulator",
     "debug.android": "npm run preparedemo && cd demo && tns debug android --emulator",
-    "preparedemo": "npm run build && cd demo && tns plugin remove nativescript-nativescript-invengo && tns plugin add .. && tns install",
+    "preparedemo": "npm run build && cd demo && tns plugin remove nativescript-obd && tns plugin add .. && tns install",
     "setup": "cd demo && npm install && cd .. && npm run build && cd demo && tns plugin add .. && cd ..",
     "prepublish": "tsc",
     "start": "npm run demo.ios"
   },
+  "gitHead": "71485791b79033baa4cdb23484e961f48991db0f",
   "readme": "ERROR: No README data found!",
   "_id": "nativescript-obd@1.0.0",
-  "_shasum": "782717a0621ea72df13c2d2bf0640c076a77eb2e",
+  "_shasum": "5707b7dd931bd4faf06fb6f631636c8766155c44",
   "_from": "..",
   "_resolved": "file:.."
 }

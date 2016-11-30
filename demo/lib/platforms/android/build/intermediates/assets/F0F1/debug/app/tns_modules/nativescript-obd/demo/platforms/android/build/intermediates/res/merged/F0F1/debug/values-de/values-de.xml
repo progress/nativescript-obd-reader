@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s: %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s: %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alle ansehen"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"Aus"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"An"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Suchen"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Suchanfrage senden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Freigeben für %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="command_list">Wähle einen Befehl</string>
+    <string name="dialog_loading_body">Lade App, bitte warten</string>
+    <string name="dialog_loading_title">Lade…</string>
+    <string name="menu_get_dtc">Hole DTC</string>
+    <string name="menu_item_trip_delete">Löschen</string>
+    <string name="menu_settings">Einstellungen</string>
+    <string name="menu_start_live_data">Starte Live Daten</string>
+    <string name="menu_stop_live_data">Stope Live Daten</string>
+    <string name="menu_trip_list">Trips</string>
+    <string name="notification_action">Berühre den Bildschirm um den OBD-Reader zu öffnen.</string>
+    <string name="notification_label">Berühre den Bildschirm um den OBD-Reader zu öffnen.</string>
+    <string name="pref_bluetooth_list_devices_summary">Liste gekoppelter Bluetoothgeräte</string>
+    <string name="pref_bluetooth_list_devices_title">Bluetoothgeräte</string>
+    <string name="pref_bluetooth_summaryOff">Schalte Bluetooth an</string>
+    <string name="pref_bluetooth_summaryOn">Schalte Bluetooth aus</string>
+    <string name="pref_bluetooth_title">Verwende Bluetooth</string>
+    <string name="pref_engine_displacement_summary">Wird für die Verbrauchsberechnung bei Fahrzeuge ohne Luftmassensensor benötigt</string>
+    <string name="pref_engine_displacement_title">Hubraum (in Litern)</string>
+    <string name="pref_gps_category_summaryOff">Aktiviere GPS</string>
+    <string name="pref_gps_category_summaryOn">Deaktiviere GPS</string>
+    <string name="pref_gps_category_title">Verwende GPS</string>
+    <string name="pref_gps_distance_period_summary">Mindestdistanz zwischen Ortupdates (in Metern)</string>
+    <string name="pref_gps_distance_period_title">Updatefrequenz (in Meter)</string>
+    <string name="pref_gps_update_period_summary">Dauer zwischen Statusabfragen (in Sekunden)</string>
+    <string name="pref_gps_update_period_title">Updatefrequenz (in Sekunden)</string>
+    <string name="pref_imperial_units_summaryOff">Verwende angelsächsisches Maß</string>
+    <string name="pref_imperial_units_summaryOn">Verwende wieder metrisches Maß</string>
+    <string name="pref_imperial_units_title">Angelsächsische Einheiten</string>
+    <string name="pref_max_fuel_econ_summary">Alle höheren Verbrauchswerte werden nicht berücksichtigt</string>
+    <string name="pref_max_fuel_econ_title">Maximaler Verbrauch</string>
+    <string name="pref_obd_protocols_summary">Wähle ein OBD Protokoll</string>
+    <string name="pref_obd_protocols_title">OBD Protokoll</string>
+    <string name="pref_obd_update_period_summary">Dauer zwischen Fahrzeugdatenabfragen (in Sekunden)</string>
+    <string name="pref_obd_update_period_title">Updatefrequenz (in Sekunden)</string>
+    <string name="pref_reader_config_summary">Konfiguration des Bluetooth Readers. Je eine Einstellung pro Zeile</string>
+    <string name="pref_reader_config_title">Reader Konfiguration Kommandos</string>
+    <string name="pref_upload_category_title">Daten Upload</string>
+    <string name="pref_upload_summaryOff">Aktiviere Datenupload per http</string>
+    <string name="pref_upload_summaryOn">Deaktiviere Datenupload per http</string>
+    <string name="pref_upload_title">Aktiviere Datenupload</string>
+    <string name="pref_upload_url_summary">Eine POST URL, die Echtzeitdaten akzeptiert</string>
+    <string name="pref_upload_url_title">Upload URL</string>
+    <string name="pref_vehicle_id_summary">Optionaler Key für dieses Fahrzeug, wird beim Upload der Daten genutzt</string>
+    <string name="pref_vehicle_id_title">Fahrzeug ID</string>
+    <string name="pref_volumetric_efficiency_dialog_title">Volumetrischer Wirkungsgrad (z.B. 0.85)</string>
+    <string name="pref_volumetric_efficiency_summary">Wird für die Verbrauchsberechnung bei Fahrzeuge ohne Luftmassensensor benötigt</string>
+    <string name="pref_volumetric_efficiency_title">Volumetrischer Wirkungsgrad</string>
+    <string msgid="146198913615257606" name="search_menu_title">"Suchen"</string>
+    <string name="service_started">OBD-Verbindung hergestellt</string>
+    <string name="service_starting">Starte OBD Verbindung..</string>
+    <string name="service_stopped">OBD-Verbindung gestoppt.</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="status_bluetooth_connected">verbunden</string>
+    <string name="status_bluetooth_connecting">verbindet…</string>
+    <string name="status_bluetooth_disabled">nicht verfügbar</string>
+    <string name="status_bluetooth_error_connecting">Verbindung fehlgeschlagen</string>
+    <string name="status_bluetooth_ok">bereit</string>
+    <string name="status_gps_fix">Fix erhalten</string>
+    <string name="status_gps_no_fix">Fix not erhalten</string>
+    <string name="status_gps_no_support">nicht verfügbar</string>
+    <string name="status_gps_not_used">nicht benutzt</string>
+    <string name="status_gps_ready">bereit</string>
+    <string name="status_gps_started">gestartet</string>
+    <string name="status_gps_stopped">gestoppt</string>
+    <string name="status_no_bluetooth_id">nicht verfügbar</string>
+    <string name="status_obd_data">erhalte Daten…</string>
+    <string name="status_obd_disconnected">nicht verbunden</string>
+    <string name="status_obd_ready">OK</string>
+    <string name="text_bluetooth_disabled">Bluetooth ist nicht aktivert. Bitte aktiveren (Nutze Mock service)</string>
+    <string name="text_bluetooth_error_connecting">Kann nicht zum Bluetooth Adapter verbinden!</string>
+    <string name="text_bluetooth_nodevice">Kein Bluetooth Adapter ausgewählt.</string>
+    <string name="text_dtc_no_data">keine DTC gespeichert</string>
+    <string name="text_no_bluetooth_id">Sorry, dein Gerät unterstützt kein Bluetooth</string>
+    <string name="text_no_gps_support">Sorry, dein Gerät unterstützt kein GPS oder es ist ausgeschaltet!</string>
+    <string name="text_no_orientation_sensor">Kein Kompass vorhanden?</string>
+    <string name="text_obd_command_failure">OBD Kommando Fehler!</string>
+    <string name="text_save_trip_not_available">Sorry, der Trip wird nicht gespeichert.</string>
+    <string name="title_activity_trips_list">Liste der Trips</string>
+    <string name="title_activity_trouble_codes">Fehlercodes</string>
+    <string name="title_pref_commands">OBD Kommandos</string>
+    <string name="title_pref_commands_summary">Wähle OBD Kommandos, die in Echtzeit angezeigt werden sollen</string>
+    <string name="title_pref_commands_title">OBD Kommandos</string>
+    <string name="title_pref_obd">OBD Einstellungen</string>
+</resources>

@@ -1,0 +1,2 @@
+/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/assets/app/tns_modules/nativescript-obd/demo/platforms/android/build/intermediates/assets/F0F1/debug/internal/ts_helpers.js
+/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/assets/app/tns_modules/nativescript-obd/demo/platforms/android/build/intermediates/assets/F0F1/debug/internal/livesync.js

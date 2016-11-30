@@ -20,7 +20,7 @@
     ],
     "author": {
         "name": "Mehfuz Hossain",
-        "email": "mehfuz@gmail.com"
+        "email": "mehfuz.hossain@progress.com"
     },
     "license": {
         "type": "Apache 2.0",
@@ -37,7 +37,7 @@
         "demo.android": "npm run preparedemo && cd demo && tns run android",
         "debug.ios": "npm run preparedemo && cd demo && tns debug ios --emulator",
         "debug.android": "npm run preparedemo && cd demo && tns debug android --emulator",
-        "preparedemo": "npm run build && cd demo && tns plugin remove nativescript-nativescript-invengo && tns plugin add .. && tns install",
+        "preparedemo": "npm run build && cd demo && tns plugin remove nativescript-obd && tns plugin add .. && tns install",
         "setup": "cd demo && npm install && cd .. && npm run build && cd demo && tns plugin add .. && cd ..",
         "prepublish": "tsc",
         "start": "npm run demo.ios"

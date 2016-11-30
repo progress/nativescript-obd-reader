@@ -1,0 +1,12 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd"
+  loaded="pageLoaded">
+
+
+  <ActionBar automationText="ActionBar"  title="NativeScript OBD II Demo">
+      <!--<ActionBar.actionItems>
+        <ActionItem text="History" tap="{{history}}" ios.position="right" android.position="popup"/>
+      </ActionBar.actionItems>-->
+  </ActionBar>
+  
+
+</Page>
