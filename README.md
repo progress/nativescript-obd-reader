@@ -1,2 +1,3 @@
-# nativescript-obd
-NativeScript ODBII Plugin
+# nativescript-obd-reader
+
+NativeScript OBDII Reader Plugin
