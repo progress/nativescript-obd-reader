@@ -1,4 +1,4 @@
 
 android {
-    flavorDimensions "nativescriptobd", "tnscoremoduleswidgets"
+    flavorDimensions "nativescriptobdreader", "tnscoremoduleswidgets"
 }

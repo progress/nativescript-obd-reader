@@ -1,5 +1,5 @@
 {
-    "name": "nativescript-obd",
+    "name": "nativescript-obd-reader",
     "version": "1.0.0",
     "description": "OBD II reader plugin",
     "main": "obd.js",
@@ -14,7 +14,7 @@
     },
     "keywords": [
         "NativeScript",
-        "nativescript-obd",
+        "nativescript-obd-reader",
         "OBD",
         "iOT"
     ],
@@ -29,7 +29,7 @@
     "bugs": {
         "url": "https://github.com/mehfuzh/nativescript-invengo/issues"
     },
-    "homepage": "https://github.com/mehfuzh/nativescript-obd",
+    "homepage": "https://github.com/mehfuzh/nativescript-obd-reader",
     "readmeFilename": "README.md",
     "scripts": {
         "build": "tsc",
@@ -37,7 +37,7 @@
         "demo.android": "npm run preparedemo && cd demo && tns run android",
         "debug.ios": "npm run preparedemo && cd demo && tns debug ios --emulator",
         "debug.android": "npm run preparedemo && cd demo && tns debug android --emulator",
-        "preparedemo": "npm run build && cd demo && tns plugin remove nativescript-obd && tns plugin add .. && tns install",
+        "preparedemo": "npm run build && cd demo && tns plugin remove nativescript-obd-reader && tns plugin add .. && tns install",
         "setup": "cd demo && npm install && cd .. && npm run build && cd demo && tns plugin add .. && cd ..",
         "prepublish": "tsc",
         "start": "npm run demo.ios"

@@ -1,5 +1,5 @@
 {
-    "nativescript-obd": true,
+    "nativescript-obd-reader": true,
     "tns-core-modules": true,
     "tns-core-modules-widgets": true
 }

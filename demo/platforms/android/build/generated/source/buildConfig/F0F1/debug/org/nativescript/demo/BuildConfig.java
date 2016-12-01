@@ -10,6 +10,6 @@ public final class BuildConfig {
   public static final String FLAVOR = "F0F1";
   public static final int VERSION_CODE = 1;
   public static final String VERSION_NAME = "1.0";
-  public static final String FLAVOR_nativescriptobd = "F0";
+  public static final String FLAVOR_nativescriptobdreader = "F0";
   public static final String FLAVOR_tnscoremoduleswidgets = "F1";
 }

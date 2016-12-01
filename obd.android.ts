@@ -2,7 +2,7 @@ declare var com: any;
 declare var java: any;
 declare var android: any;
 
-export class OBD {
+export class OBDReader {
 
    private bluetoothAdapter: any;
 

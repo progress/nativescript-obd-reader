@@ -10,7 +10,7 @@
     }
   },
   "dependencies": {
-    "nativescript-obd": "file:..",
+    "nativescript-obd-reader": "file:..",
     "tns-core-modules": "2.3.0"
   },
   "devDependencies": {

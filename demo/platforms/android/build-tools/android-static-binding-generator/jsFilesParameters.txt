@@ -32,7 +32,7 @@
 /Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/assets/app/tns_modules/image-source/image-source.js
 /Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/assets/app/tns_modules/location/location-common.js
 /Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/assets/app/tns_modules/location/location.js
-/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/assets/app/tns_modules/nativescript-obd/obd.js
+/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/assets/app/tns_modules/nativescript-obd-reader/obd.js
 /Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/assets/app/tns_modules/platform/platform.js
 /Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/assets/app/tns_modules/text/formatted-string-common.js
 /Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/assets/app/tns_modules/text/formatted-string.js
