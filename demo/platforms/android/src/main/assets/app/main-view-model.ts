@@ -3,6 +3,8 @@ import frameModule = require('ui/frame');
 import {Observable} from 'data/observable';
 import {ObservableArray} from "data/observable-array";
 
+import app = require("application");
+
 var obdReaderModule = require("nativescript-obd-reader");
 
 export class MainViewModel extends Observable {
@@ -11,7 +13,9 @@ export class MainViewModel extends Observable {
     super();
 
     let that = this;
-    let obdReader = new obdReaderModule.OBDReader();
 
+    let obdReader = new obdReaderModule.OBDReader(app.android.context);
+
+    obdReader.startService();
   }
 }

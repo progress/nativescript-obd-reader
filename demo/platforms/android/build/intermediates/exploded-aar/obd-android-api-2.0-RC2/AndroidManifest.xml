@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.github.pires.obd.reader"
+    android:versionCode="13"
+    android:versionName="2.0-RC2" >
 
-<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="21" />
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.BLUETOOTH" />
@@ -11,5 +17,12 @@
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
     <uses-permission android:name="android.permission.READ_LOGS" />
+
+    <application>
+        <service
+            android:name="com.github.pires.obd.reader.io.ObdGatewayService"
+            android:exported="false"
+            android:launchMode="singleInstance" />
+    </application>
 
 </manifest>

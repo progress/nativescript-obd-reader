@@ -12,13 +12,9 @@
     <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
     <uses-permission android:name="android.permission.READ_LOGS" />
 
-    <application>
-
-      <service
-          android:name="com.github.pires.obd.reader.io.ObdGatewayService"
-          android:launchMode="singleInstance"
-          android:exported="false" />
-
-    </application>
+    <!-- <service
+      android:name="com.github.pires.obd.reader.io.ObdGatewayService"
+      android:launchMode="singleInstance"
+      android:exported="false" /> -->
 
 </manifest>

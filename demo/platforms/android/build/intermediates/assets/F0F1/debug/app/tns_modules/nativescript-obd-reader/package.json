@@ -42,10 +42,10 @@
     "prepublish": "tsc",
     "start": "npm run demo.ios"
   },
-  "gitHead": "baea8359d9993517dbe80f9ce80a6e19d0de71e0",
-  "readme": "ERROR: No README data found!",
+  "readme": "# nativescript-obd-reader\n\nNativeScript OBDII Reader Plugin\n",
+  "gitHead": "c8678652d354aa3b324ed58203a6d5f9c5e59634",
   "_id": "nativescript-obd-reader@1.0.0",
-  "_shasum": "e35b9feed80fc8dc656fe2c40fcba597a95b69a1",
+  "_shasum": "2ab54e5d1032dadb280afd047199688ebf7a5886",
   "_from": "..",
   "_resolved": "file:.."
 }

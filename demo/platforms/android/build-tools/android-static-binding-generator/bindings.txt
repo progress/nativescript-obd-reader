@@ -144,8 +144,8 @@ view.View*frnal_ts_helpers_l55_c38__TextBase*_onBindingContextChanged,onFormatte
 common.TextBase*frnal_ts_helpers_l55_c38__TextBase*_onTextPropertyChanged,_setFormattedTextPropertyToNative***
 editableTextBase.EditableTextBase*frnal_ts_helpers_l55_c38__TextField*returnPressEvent***
 common.TextField*frnal_ts_helpers_l55_c38__TextField*_configureEditText,_onReturnPress***
-editableTextBase.EditableTextBase*frnal_ts_helpers_l55_c38__TextView****
 common.TextView*frnal_ts_helpers_l55_c38__TextView*_configureEditText***
+editableTextBase.EditableTextBase*frnal_ts_helpers_l55_c38__TextView****
 view.View*frnal_ts_helpers_l55_c38__TimePicker*_setNativeTime,_setNativeMinTime,_setNativeMaxTime,_setNativeMinuteIntervalTime,hourProperty,minHourProperty,maxHourProperty,minuteProperty,minMinuteProperty,maxMinuteProperty,minuteIntervalProperty,timeProperty***
 common.TimePicker*frnal_ts_helpers_l55_c38__TimePicker*_createUI,_setNativeValueSilently,_setNativeTime***
 android.widget.TimePicker.OnTimeChangedListener*ftns_modules_ui_time_picker_time_picker_l18_c26__*owner,onTimeChanged***
@@ -158,3 +158,5 @@ android.animation.Animator.AnimatorListener*ftns_modules_ui_transition_transitio
 view.View*frnal_ts_helpers_l55_c38__WebView*_onLoadFinished,_onLoadStarted,loadStartedEvent,loadFinishedEvent,navigationTypes,urlProperty,srcProperty***
 android.webkit.WebViewClient*frnal_ts_helpers_l55_c38__WebViewClientClassInner*shouldOverrideUrlLoading,onPageStarted,onPageFinished,onReceivedError***
 common.WebView*frnal_ts_helpers_l55_c38__WebView*_createUI,_onDetached,_loadUrl,_loadFileOrResource,_loadHttp,_loadData,stopLoading,goBack,goForward,reload***
+observable_1.Observable*frnal_ts_helpers_l55_c38__MainViewModel****
+observable_1.Observable*frnal_ts_helpers_l55_c38__MainViewModel****
