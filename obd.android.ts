@@ -4,8 +4,9 @@ declare var android: any;
 
 
 export class OBDReader {
-
    private bluetoothAdapter: any;
+
+   private listener:any;
 
    private service:any;
 
@@ -19,27 +20,18 @@ export class OBDReader {
           return;
        }
 
-      //  this.serviceConn = android.content.ServiceConnection({
-      //       onServiceConnected: function(className, binder){
-      //           console.log(className);
-      //       },
-      //       onServiceDisconnected:function(className){
-      //
-      //       }
-      //  });
-      //
-      //
-      // let BIND_AUTO_CREATE = android.content.Context.BIND_AUTO_CREATE;
-      //
-      // console.log(BIND_AUTO_CREATE);
-      //
       let ObdGatewayService = com.github.pires.obd.reader.io.ObdGatewayService;
 
       this.service = new ObdGatewayService();
+   }
 
-      // let serviceIntent = android.content.Intent(context, ObdGatewayService.class)
-      //
-      // android.content.ContextWrapper.bindService(serviceIntent, this.serviceConn, BIND_AUTO_CREATE);
+   public addProgressListener(callback:any){
+     let ObdProgressListener = com.github.pires.obd.reader.io.ObdProgressListener;
+     this.service.addListener(new ObdProgressListener({
+         stateUpdate: (job)=>{
+             callback(job);
+         }
+     }));
    }
 
    public startService(remoteDevice){
@@ -56,9 +48,5 @@ export class OBDReader {
       } catch (ex){
           console.log("OBDError: Error Starting the Service.");
       }
-   }
-
-   public read(){
-
    }
 }

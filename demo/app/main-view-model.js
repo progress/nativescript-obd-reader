@@ -8,6 +8,9 @@ var MainViewModel = (function (_super) {
         _super.call(this);
         var that = this;
         var obdReader = new obdReaderModule.OBDReader(app.android.context);
+        objReader.addProgressListener(function (job) {
+            console.log(job);
+        });
         obdReader.startService();
     }
     return MainViewModel;

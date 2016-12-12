@@ -160,3 +160,4 @@ android.webkit.WebViewClient*frnal_ts_helpers_l55_c38__WebViewClientClassInner*s
 common.WebView*frnal_ts_helpers_l55_c38__WebView*_createUI,_onDetached,_loadUrl,_loadFileOrResource,_loadHttp,_loadData,stopLoading,goBack,goForward,reload***
 observable_1.Observable*frnal_ts_helpers_l55_c38__MainViewModel****
 observable_1.Observable*frnal_ts_helpers_l55_c38__MainViewModel****
+observable_1.Observable*frnal_ts_helpers_l55_c38__MainViewModel****

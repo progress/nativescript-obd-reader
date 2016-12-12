@@ -43,9 +43,9 @@
     "start": "npm run demo.ios"
   },
   "readme": "# nativescript-obd-reader\n\nNativeScript OBDII Reader Plugin\n",
-  "gitHead": "c8678652d354aa3b324ed58203a6d5f9c5e59634",
+  "gitHead": "5c603bb28e4190a7f3d7067314be7d0ec679eea7",
   "_id": "nativescript-obd-reader@1.0.0",
-  "_shasum": "2ab54e5d1032dadb280afd047199688ebf7a5886",
+  "_shasum": "87ed718a27f189fd061ef29942220876c453a8b2",
   "_from": "..",
   "_resolved": "file:.."
 }

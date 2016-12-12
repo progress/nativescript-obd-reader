@@ -16,6 +16,10 @@ export class MainViewModel extends Observable {
 
     let obdReader = new obdReaderModule.OBDReader(app.android.context);
 
+    objReader.addProgressListener((job)=>{
+        console.log(job);
+    });
+
     obdReader.startService();
   }
 }
