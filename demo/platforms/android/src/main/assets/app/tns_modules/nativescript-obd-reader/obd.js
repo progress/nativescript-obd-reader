@@ -39,6 +39,9 @@ var OBDReader = (function () {
             console.log("OBDError: Error Starting the Service.");
         }
     };
+    OBDReader.prototype.stopService = function () {
+        this.service.stopService();
+    };
     return OBDReader;
 }());
 exports.OBDReader = OBDReader;

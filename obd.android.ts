@@ -56,4 +56,8 @@ export class OBDReader {
           console.log("OBDError: Error Starting the Service.");
       }
    }
+
+   public stopService(){
+     this.service.stopService();
+   }
 }

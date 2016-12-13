@@ -5,6 +5,7 @@
   <ActionBar automationText="ActionBar"  title="NativeScript OBD II Demo">
     <ActionBar.actionItems>
       <ActionItem text="Start Live Data" tap="{{start}}" ios.position="right" android.position="popup"/>
+      <ActionItem text="Stop" tap="{{stop}}" ios.position="right" android.position="popup"/>
     </ActionBar.actionItems>
   </ActionBar>
 

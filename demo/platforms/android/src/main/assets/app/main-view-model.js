@@ -26,6 +26,9 @@ var MainViewModel = (function (_super) {
     MainViewModel.prototype.start = function () {
         this.reader.startService();
     };
+    MainViewModel.prototype.stop = function () {
+        this.reader.stopService();
+    };
     return MainViewModel;
 }(observable_1.Observable));
 exports.MainViewModel = MainViewModel;

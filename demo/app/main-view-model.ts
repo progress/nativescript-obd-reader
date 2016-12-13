@@ -44,4 +44,8 @@ export class MainViewModel extends Observable {
   public start(){
     this.reader.startService();
   }
+
+  public stop(){
+    this.reader.stopService();
+  }
 }

@@ -23,8 +23,10 @@ Without the above line included, your TypeScript compiler may throw errors durin
 
 ## Methods
 
-- reader.startService()
-- reader.addListener(callback)
+
+- reader.addProgressListener(callback)
+- reader.startService([deviceName|optional])
+- reader.stopService()
 
 ## Usage
 
