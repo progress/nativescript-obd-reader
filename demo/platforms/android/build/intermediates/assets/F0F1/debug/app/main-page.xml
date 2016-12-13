@@ -3,10 +3,23 @@
 
 
   <ActionBar automationText="ActionBar"  title="NativeScript OBD II Demo">
-      <!--<ActionBar.actionItems>
-        <ActionItem text="History" tap="{{history}}" ios.position="right" android.position="popup"/>
-      </ActionBar.actionItems>-->
+    <ActionBar.actionItems>
+      <ActionItem text="Start Live Data" tap="{{start}}" ios.position="right" android.position="popup"/>
+    </ActionBar.actionItems>
   </ActionBar>
-  
+
+  <ListView items="{{ items }}" >
+  <ListView.itemTemplate>
+    <GridLayout>
+        <GridLayout margin="10">
+            <StackLayout>
+                <Label text="{{ name }}" textWrap="true" class="title"/>
+                <Label text="{{ text }}" textWrap="true" class="message"/>
+            </StackLayout>
+        </GridLayout>
+    </GridLayout>
+  </ListView.itemTemplate>
+</ListView>
+
 
 </Page>

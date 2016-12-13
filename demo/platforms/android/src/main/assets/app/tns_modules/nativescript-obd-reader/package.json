@@ -42,10 +42,10 @@
     "prepublish": "tsc",
     "start": "npm run demo.ios"
   },
-  "readme": "# nativescript-obd-reader\n\nNativeScript OBDII Reader Plugin\n",
-  "gitHead": "5c603bb28e4190a7f3d7067314be7d0ec679eea7",
+  "readme": "# nativescript-obd-reader\n\nNativeScript OBDII Reader Plugin.\n\nThe plugin is based on `obd-java-api` and includes the android from: [android-obd-reader](https://github.com/pires/android-obd-reader)\n\n## Installation\nTo install type\n\n```\ntns plugin add nativescript-obd-reader\n\n```\n\nIf you're using TypeScript and wish to make use of the type definitions for this plugin, add the following line to your project's **references.d.ts** file:\n\n```\n  /// <reference path=\"./node_modules/nativescript-obd-reader/obd.d.ts\" />\n```\n\nWithout the above line included, your TypeScript compiler may throw errors during the build.\n\n\n## Methods\n\n- reader.startService()\n- reader.addListener(callback)\n\n## Usage\n\nIncluding the Plugin in Your Project\n\n    var obdReaderModule = require(\"nativescript-obd-reader\");\n\n\nThe plugin interface is simple. You have to do the following:\n\n* Initialize the plugin listener\n* Start the service.\n\nThe most simplest usage of the plugin:\n\n```\n  let reader = new obdReaderModule.OBDReader(app.android.context);\n\n  reader.addProgressListener((job)=>{\n      console.log(job);\n  });\n\n  reader.startService();\n```\n## Platform\n\nAndroid + Bluetooth Elm327 compatible OBD reader\n\n## License\nThis plugin is licensed under the Apache 2.0 by Progress Software\n",
+  "gitHead": "ee4a143efc405344d618663bfc53f7541813c3f2",
   "_id": "nativescript-obd-reader@1.0.0",
-  "_shasum": "87ed718a27f189fd061ef29942220876c453a8b2",
+  "_shasum": "d1a35cd3fb5e7bcdcaa17f5ff2182500f65da0fb",
   "_from": "..",
   "_resolved": "file:.."
 }

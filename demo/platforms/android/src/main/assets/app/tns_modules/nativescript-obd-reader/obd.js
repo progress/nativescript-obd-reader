@@ -1,17 +1,18 @@
 "use strict";
 var OBDReader = (function () {
-    function OBDReader(context) {
+    function OBDReader(app) {
         this.bluetoothAdapter = android.bluetooth.BluetoothAdapter.getDefaultAdapter();
         if (!this.bluetoothAdapter.isEnabled()) {
             console.log("OBDReader: Bluetooth is not enabled.");
             return;
         }
         var ObdGatewayService = com.github.pires.obd.reader.io.ObdGatewayService;
-        this.service = new ObdGatewayService();
+        this.service = new ObdGatewayService(app.android.foregroundActivity);
     }
     OBDReader.prototype.addProgressListener = function (callback) {
         var ObdProgressListener = com.github.pires.obd.reader.io.ObdProgressListener;
-        this.service.addListener(new ObdProgressListener({
+        console.log(this.service.addProgressListener);
+        this.service.addProgressListener(new ObdProgressListener({
             stateUpdate: function (job) {
                 callback(job);
             }

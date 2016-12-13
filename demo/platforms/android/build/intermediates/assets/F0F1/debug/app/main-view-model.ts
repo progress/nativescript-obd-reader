@@ -7,19 +7,52 @@ import app = require("application");
 
 var obdReaderModule = require("nativescript-obd-reader");
 
+export interface Item {
+    name : string,
+    text : string
+}
+
 export class MainViewModel extends Observable {
+
+  private _items:Array<Item>;
+  private reader:any;
 
   constructor() {
     super();
 
     let that = this;
 
-    let obdReader = new obdReaderModule.OBDReader(app.android.context);
+    var items = [];
 
-    objReader.addProgressListener((job)=>{
-        console.log(job);
+    this.reader = new obdReaderModule.OBDReader(app);
+
+    this.reader.addProgressListener((job)=>{
+        if (job){
+          items.push({
+            name : job.getCommand().getName(),
+            text: job.getCommand().getFormattedResult()
+          });
+
+          console.log(items);
+
+          that.set("items", items);
+        }
+        else{
+          console.log(job);
+        }
+
     });
+  }
 
-    obdReader.startService();
+  public start(){
+    this.reader.startService();
+  }
+
+  get items() {
+    return this._items;
+  }
+
+  set items(value: Array<Item>) {
+    this.notifyPropertyChange("items", value);
   }
 }

@@ -1,2 +1,1 @@
 /Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/assets/app/main-view-model.js
-/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/src/main/assets/app/tns_modules/nativescript-obd-reader/obd.js

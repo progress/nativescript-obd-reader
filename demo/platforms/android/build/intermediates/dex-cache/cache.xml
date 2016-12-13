@@ -26,7 +26,7 @@
         jar="/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/exploded-aar/obd-android-api-2.0-RC2/jars/classes.jar"
         jumboMode="false"
         revision="23.0.3"
-        sha1="c7da46da50681d1267b7173d90f9f356c0e7a506">
+        sha1="0518627c41e312feed1dcbf7dd92699b97d46acc">
         <dex dex="/Users/mehfuz/Source/Telerik/nativescript-obd-plugin/demo/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-obd-android-api-2.0-RC2_3a5014e5d03be38124e1ac0ddec9a4f08f941137.jar" />
     </item>
     <item

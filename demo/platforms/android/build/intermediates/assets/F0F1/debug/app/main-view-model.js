@@ -7,12 +7,35 @@ var MainViewModel = (function (_super) {
     function MainViewModel() {
         _super.call(this);
         var that = this;
-        var obdReader = new obdReaderModule.OBDReader(app.android.context);
-        objReader.addProgressListener(function (job) {
-            console.log(job);
+        var items = [];
+        this.reader = new obdReaderModule.OBDReader(app);
+        this.reader.addProgressListener(function (job) {
+            if (job) {
+                items.push({
+                    name: job.getCommand().getName(),
+                    text: job.getCommand().getFormattedResult()
+                });
+                console.log(items);
+                that.set("items", items);
+            }
+            else {
+                console.log(job);
+            }
         });
-        obdReader.startService();
     }
+    MainViewModel.prototype.start = function () {
+        this.reader.startService();
+    };
+    Object.defineProperty(MainViewModel.prototype, "items", {
+        get: function () {
+            return this._items;
+        },
+        set: function (value) {
+            this.notifyPropertyChange("items", value);
+        },
+        enumerable: true,
+        configurable: true
+    });
     return MainViewModel;
 }(observable_1.Observable));
 exports.MainViewModel = MainViewModel;

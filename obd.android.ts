@@ -12,7 +12,7 @@ export class OBDReader {
 
    private serviceConn:any;
 
-   constructor(context){
+   constructor(app){
        this.bluetoothAdapter = android.bluetooth.BluetoothAdapter.getDefaultAdapter();
 
        if (!this.bluetoothAdapter.isEnabled()){
@@ -22,12 +22,13 @@ export class OBDReader {
 
       let ObdGatewayService = com.github.pires.obd.reader.io.ObdGatewayService;
 
-      this.service = new ObdGatewayService();
+      this.service = new ObdGatewayService(app.android.foregroundActivity);
    }
 
    public addProgressListener(callback:any){
      let ObdProgressListener = com.github.pires.obd.reader.io.ObdProgressListener;
-     this.service.addListener(new ObdProgressListener({
+     console.log(this.service.addProgressListener);
+     this.service.addProgressListener(new ObdProgressListener({
          stateUpdate: (job)=>{
              callback(job);
          }
