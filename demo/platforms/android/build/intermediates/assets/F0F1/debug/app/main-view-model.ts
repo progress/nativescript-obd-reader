@@ -14,11 +14,13 @@ export interface Item {
 
 export class MainViewModel extends Observable {
 
-  private _items:Array<Item>;
+  public stats:ObservableArray<Item>;
   private reader:any;
 
   constructor() {
     super();
+
+    this.stats = new ObservableArray([]);
 
     let that = this;
 
@@ -28,31 +30,18 @@ export class MainViewModel extends Observable {
 
     this.reader.addProgressListener((job)=>{
         if (job){
-          items.push({
+          that.stats.push({
             name : job.getCommand().getName(),
             text: job.getCommand().getFormattedResult()
           });
-
-          console.log(items);
-
-          that.set("items", items);
         }
         else{
           console.log(job);
         }
-
     });
   }
 
   public start(){
     this.reader.startService();
-  }
-
-  get items() {
-    return this._items;
-  }
-
-  set items(value: Array<Item>) {
-    this.notifyPropertyChange("items", value);
   }
 }

@@ -19,14 +19,19 @@ var OBDReader = (function () {
         }));
     };
     OBDReader.prototype.startService = function (remoteDevice) {
+        var BOND_BONDED = android.bluetooth.BluetoothDevice.BOND_BONDED;
         try {
             if (typeof remoteDevice !== 'undefined') {
                 this.service.startService(remoteDevice);
             }
             else {
                 var devices = this.bluetoothAdapter.getBondedDevices().toArray();
-                if (devices.length) {
-                    this.service.startService(devices[0].getAddress());
+                for (var _i = 0, devices_1 = devices; _i < devices_1.length; _i++) {
+                    var device = devices_1[_i];
+                    if (device.getBondState() === BOND_BONDED) {
+                        this.service.startService(device.getAddress());
+                        break;
+                    }
                 }
             }
         }

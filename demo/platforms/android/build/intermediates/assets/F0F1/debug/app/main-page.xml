@@ -8,7 +8,7 @@
     </ActionBar.actionItems>
   </ActionBar>
 
-  <ListView items="{{ items }}" >
+  <ListView items="{{ stats }}" >
   <ListView.itemTemplate>
     <GridLayout>
         <GridLayout margin="10">

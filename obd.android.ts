@@ -36,14 +36,20 @@ export class OBDReader {
    }
 
    public startService(remoteDevice){
+     let BOND_BONDED = android.bluetooth.BluetoothDevice.BOND_BONDED;
+
       try {
         if (typeof remoteDevice !== 'undefined') {
           this.service.startService(remoteDevice);
         }
         else {
-          var devices = this.bluetoothAdapter.getBondedDevices().toArray();
-          if (devices.length){
-            this.service.startService(devices[0].getAddress());
+          let devices = this.bluetoothAdapter.getBondedDevices().toArray();
+
+          for (var device of devices){
+            if (device.getBondState() === BOND_BONDED){
+              this.service.startService(device.getAddress());
+              break;
+            }
           }
         }
       } catch (ex){
